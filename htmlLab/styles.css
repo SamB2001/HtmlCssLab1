@@ -1,5 +1,6 @@
 h1 {
     color: red;
+    background-color: black;
     text-align: center;
 }
 div{
@@ -20,22 +21,19 @@ div{
     padding-left: 225px;
     margin-left: 100px;
 } */
-/* h3 {
-    text-align: left;
-} */
-img {
+
+.image1 {
     padding-left: 30vw;
-    padding-right: 30vw;
     width: 30vw;
     float: right;
+}
+.image2 {
+    padding-right: 30vw;
+    width: 30vw;
+    float: left;
 }
 p{
     font: bold;
     text-align: center;
-    font-size: 18px;
+    font-size: 18;
 }
-/* input{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-} */
