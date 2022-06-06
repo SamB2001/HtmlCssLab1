@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+div{
+    background: blue;
+    text-align: center;
+    margin-left: 30vw;
+    margin-right: 30vw;
+}
+/* h2 {
+    height: 30px;
+    width: 350px;
+    background-color: blue;
+    background-position: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding-left: 225px;
+    margin-left: 100px;
+} */
+/* h3 {
+    text-align: left;
+} */
+img {
+    padding-left: 30vw;
+    padding-right: 30vw;
+    width: 30vw;
+    float: right;
+}
+p{
+    font: bold;
+    text-align: center;
+    font-size: 18px;
+}
+/* input{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+} */
